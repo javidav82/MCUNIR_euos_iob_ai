@@ -12,8 +12,8 @@ The folder also contains model files, such as offline-trained artifacts exported
 
 The library seeks an optimal balance between efficiency, accuracy, and low resource consumption, validated through an experimental pilot.
 
-GitHub Endpoint:
-Each file, its path within the repository, and its functional purpose are detailed below:
+
+Files repository - Functional purpose are detailed below:
 
 euos_iob_ai/config.yaml: Main configuration file.
 
