@@ -1,10 +1,10 @@
-# EU OS IOB AI Library
+# IOB AI Library
 
-Modular Library for IOB Detection in EU OS.
+Modular Library for IOB Detection.
 
 GitHub Project for the Library:
 
-This annex presents the complete structure of the euos_iob_ai library and the access path to its GitHub repository. The purpose of the library is to detect insider threats (IOBs) within the EU OS operating system. Each component has been developed in Python to facilitate the integration of pre-trained models.
+This annex presents the complete structure of the euos_iob_ai library and the access path to its GitHub repository. The purpose of the library is to detect insider threats (IOBs). Each component has been developed in Python to facilitate the integration of pre-trained models.
 
 The folder organization reflects the four main stages: event capture, processing, detection, and alert notification. Additionally, it includes a generic model loader and a main entry point to orchestrate the flow.
 
