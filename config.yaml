@@ -1,0 +1,12 @@
+# Configuración general
+modules:
+  - IOB-1
+  - IOB-2
+  - IOB-4
+thresholds:
+  IOB-1: 0.5
+  IOB-2: 0.6
+  IOB-4: 0.7
+log:
+  path: /var/log/euos_iob_ai.log
+  format: json

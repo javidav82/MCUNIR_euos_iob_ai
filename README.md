@@ -1,1 +1,3 @@
-# MCUNIR_euos_iob_ai
+# EU OS IOB AI Library
+
+Librería modular para la detección de IOBs en EU OS.
