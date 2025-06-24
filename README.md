@@ -1,6 +1,6 @@
 # EU OS IOB AI Library
 
-Librería modular para la detección de IOBs en EU OS.
+Modular Library for IOB Detection in EU OS.
 
 GitHub Project for the Library:
 
